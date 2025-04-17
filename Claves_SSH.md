@@ -68,4 +68,3 @@ Colocaremos la palabra "yes" y si todo esta bien lanzara un mensake como el sigu
 *Hi tu-usuario! You've successfully authenticated...*
 
 **Ahora tus llaves estan completamente configuradas y las podras usar para clonar repositorios, conectartes remotamente, entre otras cosas**
-
