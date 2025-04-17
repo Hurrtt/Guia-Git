@@ -4,21 +4,24 @@
 
 Accedes a la pagina: [https://git-scm.com]
 Seleccionamos Download: [![imagen1.png](IMAGENES/Imagen1.png)]
-Seleccionamos nuestro sistema operativo y esperamos que termine la descarga: ![alt text](IMAGENES/imagen2.png)
+
+Seleccionamos nuestro sistema operativo y esperamos que termine la descarga: 
+![alt text](IMAGENES/imagen2.png)
+
 ✅ Paso 3: Configurar durante la instalación
 
 Sigue los siguientes pasos en el instalador:
 
 ## Configuraciones importantes
 
--1.Selecciona los componentes predeterminados
-
+**1.Selecciona los componentes predeterminados**
 **Deja todo como está o activa:**
 
-•Git Bash Here
-•Git GUI Here
+-Git Bash Here
+-Git GUI Here
 
 **2-Editor por defecto para Git**
+
 Puedes dejar el predeterminado (Vim) o seleccionar Notepad++, VS Code, o cualquier editor que uses.
 
 **3.Ajuste de nombre de la rama inicial**
