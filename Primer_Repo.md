@@ -3,6 +3,10 @@ Una vez estemos ubicamos en la carpeta que contenga nuestro proyecto iniciaremos
 `git init`
 
 **Primeros comandos**
+Para poder ejecutar nuestros primeros comandos y conectarnos a nuestro repositorio en GitHub primero debemos crear nuestro primer repositorio y configurar nuestras claves SSH para la conexion:
+
+**Guia para crear nuestro primer repositorio en GitHub:** [text](PrimerRepo_Github.md)
+**Guia para configurar claves SSH:** [text](Claves_SSH.md)
 
 ```git
 
