@@ -20,7 +20,7 @@
 
 `git add archivo.txt`
 
-*Para agregar archivos a nuestra area de preparacion podemos hacerlo de uno por uno en caso de agregar todo lo que tenemos en nuestra area de trabajo usamos:*
+*Para agregar archivos a nuestra area de preparacion podemos hacerlo de uno por uno o en caso de querer agregar todo lo que tenemos en nuestra area de trabajo usamos:*
 
 `git add . `
 
@@ -34,13 +34,13 @@
 
 **Subir a repositorio remoto**
 
-*Si queremos conectarnos a nuestro repositorio en GitHub y deseamos subir nuestros archivos primero debemos configurar la conexcion en caso de haberlo echo previamente:*
+*Si queremos conectarnos a nuestro repositorio en GitHub y deseamos subir nuestros archivos primero debemos configurar la conexion en caso de no haberlo echo previamente:*
 
 `git remote add origin git@github.com:Username/Namerepo`
 
 *posterior a la palabra origin debemos colocar nuestro enlace SSH que nos proporciona GitHub o escribirlo a mano, unicamente debemos sustituir con el username del autor del repo y seguido con el nombre del repo*
 
-*En caso de no tener configuradas las claves SSH en tu cuenta visita la guia de configuracion: [Config Clave SSH](Claves_SSH.md)*
+*En caso de no tener configuradas las claves SSH en tu cuenta visita la guia de configuracion: [Claves SSH](Claves_SSH.md)*
 
 *Una vez configurado el repositorio de forma remota subiremos nuestros cambios con:*
 
@@ -54,7 +54,7 @@
 
 *En el nombre de la rama colocaremos la rama de la que queremos recibir los cambios*
 
-**Comando utiles**
+**Comandos utiles**
 
 *Si queremos consultar el historial de commits usaremos:*
 
