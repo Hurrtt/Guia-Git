@@ -62,3 +62,16 @@ Haz clic en Install.
 colocamos el siguiente comando: `git --version`
 
 Resultado esperado: `git version 2.43.0.windows.1`
+
+## Configuracio inicial 
+
+Introducimos nuestro username de GitHub 
+`git config --global user.name "Tu Username"`
+Introducimos el correo de nuestra cuenta de Github 
+`git config --global user.email "tucorreo@ejemplo.com"`
+
+Verificamos este configuracion con: `git config --list`
+
+## Comprobacion en CMD
+
+comando: `git --version`
