@@ -3,7 +3,7 @@
 ## Instalacion de git
 
 Accedes a la pagina: [https://git-scm.com]
-Seleccionamos Download: [![imagen1.png](IMAGENES/Imagen1.png)]
+Seleccionamos Download: ![imagen1.png](IMAGENES/Imagen1.png)
 
 Seleccionamos nuestro sistema operativo y esperamos que termine la descarga: 
 ![alt text](IMAGENES/imagen2.png)
@@ -53,3 +53,12 @@ Puedes dejar estas opciones por defecto:
 
 **9.Instalar**
 Haz clic en Install.
+
+
+## Comprobamos la instalacion en la terminal Git-Bash
+
+**Abrimos nuestra app Git Bash**
+
+colocamos el siguiente comando: `git --version`
+
+Resultado esperado: `git version 2.43.0.windows.1`
