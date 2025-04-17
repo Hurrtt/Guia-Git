@@ -8,20 +8,27 @@ Para poder ejecutar nuestros primeros comandos y conectarnos a nuestro repositor
 
 **Guia para configurar claves SSH:** [Crear Claves SSH](Claves_SSH.md)
 
-## Primeros comandos**
 
+## Primeros comandos
 
-```git
+Como primer paso podemos agregar nuestro archivo "README.md" en cual puedes agregar un descripcion sobre el contenido de tu repositorio:
 
-git init
+`git add README.md`
 
-git add README.md
+Una vez agregado a nuestra area de preparacion seguiremos con hacer nuestro primer commit, puedes agregar un mensaje descriptivo:
 
-git commit -m "first commit"
+`git commit -m "first commit"`
 
-git branch -M main
+Echo este commit nos colocaremos en nuestra rama principal: 
 
-git remote add origin git@github.com:yourusarnem/nameRepositori.git
+`git branch -M main`
 
-git push -u origin main
-```
+Ahora conectaremos nuestro repositorio local con nuestro repositorio en GitHub:
+
+`git remote add origin git@github.com:usarname/nombredeturepositorio.git`
+
+*El link usado en el comando es nuestro link SSH que nos proporciona GitHub al crear nuestro repositorio*
+
+Por ultimo haremos push a nuestra rama main y se vera reflejado en nuestro repositorio en GitHub:
+
+`git push -u origin main`
