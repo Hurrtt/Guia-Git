@@ -3,4 +3,4 @@
 ## Instalacion de git
 
 Accedes a la pagina: [https://git-scm.com]
-Seleccionamos Download: [imagen1.png]
+Seleccionamos Download: [![imagen1.png](IMAGENES/Imagen1.png)]
